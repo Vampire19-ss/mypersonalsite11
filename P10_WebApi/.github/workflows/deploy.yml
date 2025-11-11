@@ -3,7 +3,7 @@ name: Build and Deploy Trinkle Buddies Web API Server on Monster ASP
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
