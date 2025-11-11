@@ -244,7 +244,7 @@ namespace P10_WebApi.Controllers
 
 
 
-        [Authorize]
+         [Authroize]
         [HttpGet("UnFollow")]
         public async Task<IActionResult> UnFollow(string Userid)
         {

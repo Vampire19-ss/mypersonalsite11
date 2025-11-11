@@ -63,3 +63,16 @@
 /home/irfanyousuf/coding/GIT_004_005/P10_WebApi/P0_ClassLibrary/obj/Debug/net8.0/refint/P0_ClassLibrary.dll
 /home/irfanyousuf/coding/GIT_004_005/P10_WebApi/P0_ClassLibrary/obj/Debug/net8.0/P0_ClassLibrary.pdb
 /home/irfanyousuf/coding/GIT_004_005/P10_WebApi/P0_ClassLibrary/obj/Debug/net8.0/ref/P0_ClassLibrary.dll
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\bin\Debug\net8.0\P0_ClassLibrary.deps.json
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\bin\Debug\net8.0\P0_ClassLibrary.dll
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\bin\Debug\net8.0\P0_ClassLibrary.pdb
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.sourcelink.json
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.dll
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\refint\P0_ClassLibrary.dll
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\P0_ClassLibrary.pdb
+C:\Users\ASUS\Downloads\Trinkle_buddies_WebApiserver-master\Trinkle_buddies_WebApiserver-master\P0_ClassLibrary\obj\Debug\net8.0\ref\P0_ClassLibrary.dll
